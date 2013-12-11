@@ -923,7 +923,7 @@ padding-left:15px;">
 
 <!-- start -->
 
-<div class="vertical " style="width: 39%;">
+<div class="vertical " style="width: 98%;">
 
 	<div class="widget-wrapper free-text diy-resizable ">
 	
@@ -1007,7 +1007,7 @@ to receive exclusive promo alerts and updates from KING BEE FOOD CORPORATION
 	<center>
   <a href="about.html"><font color="#000" size="1">ABOUT US</font></a>  
   <a href="#menu"><font color="#000" size="1">MENU</font></a>    
-  <a href="#downloads"><font color="#000" size="1">DOWNLOADS</font></a>    
+  <a href="downloads.html"><font color="#000" size="1">DOWNLOADS</font></a>    
   <a href="#contact"><font color="#000" size="1">CONTACT US</font></a>    
 </center>
 	</div>
@@ -1064,8 +1064,6 @@ getDependecies();});</script><script type="text/javascript" src="/js/s_code.js">
 		<noscript><img src="http://64.19.142.13/namespace.112.2o7.net/b/ss/reportsuiteid/1/H.xx.x--NS/0" height="1" width="1" border="0" alt=""></noscript>
 		<!--/DO NOT REMOVE/-->
 		<!-- End SiteCatalyst code version: H.xx.x. -->
-		
-
 
 <!--[if lt IE 9]>
 	<script type="text/javascript" src="/js/respond.min.js"></script>
